@@ -9,5 +9,6 @@ gcc -o PCAP WHS_PCAP_myp.c -lpcap
 sudo ./PCAP
 
 ## 실행 결과
-<img width="431" alt="image" src="https://github.com/user-attachments/assets/805be042-6770-4682-9e76-93213732d98c" />
+![스크린샷 2025-03-28 224233](https://github.com/user-attachments/assets/bb9f318b-889e-414a-b4e0-7c9cf52c98dd)
+
 
